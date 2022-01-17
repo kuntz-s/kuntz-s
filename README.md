@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kuntz-s
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning cloud and website programming
-- 💞️ I’m looking to collaborate on any projects concerning c++ , cloud or websites
+- 🌱 I’m currently learning website programming
+- 💞️ I’m looking to collaborate on any projects concerning websites
 - 📫 How to reach me kuntzstephanenchouwetmfouapon@gmail.com
 
 <!---
