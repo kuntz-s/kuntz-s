@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @kuntz-s
-- 👀 I’m interested in website building with react technology
-- 💞️ I’m looking to collaborate on any projects concerning frontend development with react and mobile development with react native
-- 📫 How to reach me kuntzstephanenchouwetmfouapon@gmail.com
+## 👋 Hi, I’m @kuntz-s ✨
 
-<!---
-kuntz-s/kuntz-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 👨‍💻 Full stack web and mobile developper // Ui/Ux designer <br/>
+- 🧠 Computer science student specialising in software engineering at University of Yaoundé I <br/>
+- 💞️ I’m looking to collaborate on any projects concerning fullstack development, mobile development and ui/ux design <br/>
+- 📫 How to reach me kuntzstephanenchouwetmfouapon@gmail.com or stephane.nchouwet@facsciences-uy1.cm <br/>
+  
+
